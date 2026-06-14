@@ -1,43 +1,40 @@
-#<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thiago%20Melo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20✨&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
-<!-- Apresentação -->
 <div align="center">
-  <h3>Olá,👋 Eu sou o Thiago</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C%F0%9F%91%8B+Eu+sou+o+Thiago" alt="Typing SVG" /></a>
   <p>
-    Desenvolvedor Frontend apaixonado por criar interfaces bonitas, acessíveis e cheias de vida. <br/>
-    Transformo ideias em pixels com carinho e muito café ☕
+    Frontend Developer apaixonado por transformar ideias em interfaces vivas, elegantes e totalmente acessíveis. 🚀✨ Unindo design e código com atenção a cada pixel.
   </p>
 </div>
 
 ---
 
 <!-- Sobre mim -->
+
 ## 🧑🏽 Sobre mim
 
-Profissional em transição de carreira para a área de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Alinha uma sólida bagagem em lógica de processos, análise de dados e sistemas de grande porte (ERP/WMS) com competências técnicas voltadas ao Desenvolvimento Front-End. Prática no desenvolvimento de interfaces modernas, limpas e responsivas utilizando HTML5, CSS3 e JavaScript (ES6). Perfil analítico, focado em resolução de problemas complexos e melhoria contínua. Busco oportunidade como Desenvolvedor Front-End Júnior ou Estagiário. 
+Profissional em transição de carreira para a área de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Alinha uma sólida bagagem em lógica de processos, análise de dados e sistemas de grande porte (ERP/WMS) com competências técnicas voltadas ao Desenvolvimento Front-End. Prática no desenvolvimento de interfaces modernas, limpas e responsivas utilizando HTML5, CSS3 e JavaScript (ES6). Perfil analítico, focado em resolução de problemas complexos e melhoria contínua. Busco oportunidade como Desenvolvedor Front-End Júnior ou Estagiário.
 
 ---
 
 <!-- Tecnologias -->
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
 <!-- GitHub Stats -->
+
 ## 📊 Minhas estatísticas
 
 <div align="center">
@@ -52,9 +49,10 @@ Profissional em transição de carreira para a área de Tecnologia, atualmente c
 ---
 
 <!-- Projetos -->
+
 ## 🚀 Projetos em destaque
 
-> 💡 *Substitua os cards abaixo pelos seus repositórios reais!*
+> 💡 _Substitua os cards abaixo pelos seus repositórios reais!_
 
 <div align="center">
   <a href="https://github.com/SEU_USERNAME/PROJETO_1">
@@ -68,12 +66,13 @@ Profissional em transição de carreira para a área de Tecnologia, atualmente c
 ---
 
 <!-- Contato -->
+
 ## 📬 Vamos nos conectar?
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagomdooliveira)
-  [![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.m.o.1010@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagomdooliveira)
+[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.m.o.1010@gmail.com)
 
 </div>
 
