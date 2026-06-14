@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C%F0%9F%91%8B+Eu+sou+o+Thiago" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=051015&width=435&lines=Ol%C3%A1%2C%F0%9F%91%8B+Eu+sou+o+Thiago" alt="Typing SVG" /></a>
   <p>
     Frontend Developer apaixonado por transformar ideias em interfaces vivas, elegantes e totalmente acessíveis. 🚀✨ Unindo design e código com atenção a cada pixel.
   </p>
