@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thiago%20Melo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20✨&descAlignY=55&descSize=18" width="100%"/>
+</div>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=051015&width=435&lines=Ol%C3%A1%2C%F0%9F%91%8B+Eu+sou+o+Thiago" alt="Typing SVG" /></a>
   <p>
     Frontend Developer apaixonado por transformar ideias em interfaces vivas, elegantes e totalmente acessíveis. 🚀✨ Unindo design e código com atenção a cada pixel.
