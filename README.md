@@ -38,12 +38,14 @@ Profissional em transição de carreira para a área de Tecnologia, atualmente c
 ## 📊 Minhas estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthiagodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthiagodev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mthiagodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mthiagodev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mthiagodev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthiagodev&theme=tokyonight" />
 </div>
 
 ---
