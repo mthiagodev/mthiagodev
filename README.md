@@ -55,11 +55,11 @@ Profissional em transição de carreira para a área de Tecnologia, atualmente c
 > 💡 _Substitua os cards abaixo pelos seus repositórios reais!_
 
 <div align="center">
-  <a href="https://github.com/SEU_USERNAME/PROJETO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/mthiagodev/landing-page-carros">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mthiagodev&repo=landing-page-carros&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/SEU_USERNAME/PROJETO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/mthiagodev/mario">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mthiagodev&repo=mario&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
